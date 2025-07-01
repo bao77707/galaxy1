@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "https://youtu.be/LEUxrubc3Po?si=ifZPS7S1r5SSZP8G"
+   "https://youtu.be/jPjQJYKhhk4?si=-HW2MZmwEx78Pp2g"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
