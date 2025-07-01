@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "https://youtu.be/jPjQJYKhhk4?si=-HW2MZmwEx78Pp2g"
+   "https://zingmp3.vn/bai-hat/Phep-Mau-From-Dan-Ca-Go-Original-Soundtrack-MAYDAYs-Minh-Toc-Lam/Z8WOE0DD.html"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
