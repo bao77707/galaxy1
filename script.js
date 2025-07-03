@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-    "https://drive.google.com/uc?export=download&id=1Jnj-93IA68Sryi7GZO5xA5Ovml8uwoX-"
+    "https://github.com/bao77707/galaxy1/raw/refs/heads/main/Ph%C3%A9p%20M%C3%A0u%20(%C4%90%C3%A0n%20C%C3%A1%20G%E1%BB%97%20OST)%20-%20Mounter%20x%20MAYDAYs,%20Minh%20T%E1%BB%91c%20%EF%BD%9C%20Official%20MV.mp3"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
