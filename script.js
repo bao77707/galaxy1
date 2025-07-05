@@ -84,7 +84,7 @@ const galaxyParameters = {
   outsideColor: new THREE.Color(0x48b8b8),
 };
 
-const defaultHeartImages = Array.from({ length: 22 }, (_, i) => `images/img${i + 1}.jpg`);
+const defaultHeartImages = Array.from({ length: 27 }, (_, i) => `images/img${i + 1}.jpg`);
 
 const heartImages = [
   ...(window.dataCCD?.data?.heartImages || []),
@@ -613,7 +613,7 @@ scene.add(planet);
 const ringTexts = [
   'Anh yêu em❤️‍🔥',
   "Đặng Hải Yến🌷",
-  "Chúc em sinh nhật vui vẻ🎊",
+  "Chúc em sinh nhật vui vẻ",
   "🎂07/07/2006🎂",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
